@@ -1,4 +1,4 @@
-# 📱 FCIS Labs – Mobile & Pervasive Computing
+# 📱 FCIS Labs – Parallel and Distributed Architectures
 
 This repository contains lab exercises and hands-on projects completed as part of the **Parallel Distribution** course at the **Faculty of Computers and Information Science (FCIS)**, Ain Shams University.
 
